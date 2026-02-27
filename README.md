@@ -24,7 +24,7 @@ A dynamic and interactive dashboard for tracking, managing, and analyzing sales 
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/Screenshot-2026-02-27-022744.png)
 
-### Sales Trend Chart
+### Sales Trends Charts
 ![Sales Trend Chart](screenshots/Screenshot-2026-02-27-022754.png)
 
 
