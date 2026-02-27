@@ -22,13 +22,11 @@ A dynamic and interactive dashboard for tracking, managing, and analyzing sales 
 > Add your screenshots below by replacing the placeholder links.
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Screenshot 2026-02-27 022744.png)
 
 ### Sales Trend Chart
 ![Sales Trend Chart](screenshots/sales-trend.png)
 
-### Orders Table
-![Orders Table](screenshots/orders-table.png)
 
 ---
 
